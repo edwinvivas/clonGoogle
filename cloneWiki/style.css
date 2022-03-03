@@ -1,0 +1,27 @@
+.central-textlogo {
+    position: relative;
+    margin: 4rem auto 0.5rem;
+    width: 180px;
+    font-family: Linux Libertine,Hoefler Text,Georgia,Times New Roman,Times,serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: center;
+    -moz-font-feature-settings: "ss05=1";
+    -moz-font-feature-settings: "ss05";
+    -webkit-font-feature-settings: "ss05";
+    -ms-font-feature-settings: "ss05";
+    font-feature-settings: "ss05";
+    line-height: 84%;
+}
+
+.central-textlogo strong {
+    font-size: 14px;
+    font-weight: 100;
+    font-family: Linux Libertine,Georgia,Times,serif;
+}
+
+.worldWikipedia{
+    display: flex;
+    flex-direction: row;
+}
